@@ -28,7 +28,7 @@ The task is episodic, and in order to solve the environment, your agent must get
 
 [DQN](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf), [Double-DQN](https://arxiv.org/pdf/1509.06461.pdf), and [Prioritized Experience Replay](https://arxiv.org/pdf/1511.05952.pdf)(PERDDQN) agents were implemented by the papers. The video below shows the process how it is trained!
 
-[![Watch the video](https://i9.ytimg.com/vi/dJYvvBxebkc/mq1.jpg?sqp=COj9hoMG&rs=AOn4CLDk5cPpvhxWSforXf-GgwBJO9aR9Q)](https://youtu.be/dJYvvBxebkc)
+[![Watch the video](./figures/learning_notebook.jpeg)](https://youtu.be/dJYvvBxebkc)
 
 
 ### **DQN**
